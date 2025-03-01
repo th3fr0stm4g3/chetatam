@@ -1,5 +1,5 @@
 ﻿// ConsoleApplication2.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//щнагеирвш
+//щнагеирвшпнанаанп
 
 #include <iostream>
 using namespace std;
