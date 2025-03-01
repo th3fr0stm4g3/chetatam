@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\some_pomoyka\\ConsoleApplication3\\",
+  "WorkspaceRootPath": "E:\\cheta tam repo\\chetatam\\ConsoleApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A596AC47-99A5-4488-99D0-4D117C6B1487}|ConsoleApplication3\\ConsoleApplication3.vcxproj|E:\\some_pomoyka\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A596AC47-99A5-4488-99D0-4D117C6B1487}|ConsoleApplication3\\ConsoleApplication3.vcxproj|E:\\cheta tam repo\\chetatam\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A596AC47-99A5-4488-99D0-4D117C6B1487}|ConsoleApplication3\\ConsoleApplication3.vcxproj|solutionrelative:ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication3.cpp",
-              "DocumentMoniker": "E:\\some_pomoyka\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "DocumentMoniker": "E:\\cheta tam repo\\chetatam\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication3\\ConsoleApplication3.cpp",
-              "ToolTip": "E:\\some_pomoyka\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ToolTip": "E:\\cheta tam repo\\chetatam\\ConsoleApplication3\\ConsoleApplication3\\ConsoleApplication3.cpp",
               "RelativeToolTip": "ConsoleApplication3\\ConsoleApplication3.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-01T06:38:56.614Z",
               "EditorCaption": ""
